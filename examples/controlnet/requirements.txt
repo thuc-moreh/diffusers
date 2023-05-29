@@ -2,5 +2,6 @@ accelerate>=0.16.0
 torchvision
 transformers>=4.25.1
 ftfy
+protobuf>=3.19.6,<4
 tensorboard
 datasets
